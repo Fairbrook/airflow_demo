@@ -22,4 +22,5 @@ para iniciar el entorno visual y poder ejecutar el flujo de trabajo
 El código no funcionó de inmediato por lo que tuve que relizar múltiples 
 pruebas y después de un tiempo pude hacer que las tareas se ejecutaran correctamente
 
-![calendar]
+![calendar](https://raw.githubusercontent.com/Fairbrook/airflow_demo/main/imgs/graph.png)
+![calendar](https://raw.githubusercontent.com/Fairbrook/airflow_demo/main/imgs/grid.png)
